@@ -108,9 +108,9 @@ The dataset contains information on 193 car models, with 39 features including:
 ---
 
 ## Repository Structure
-- **`Automobile.R`**: R script containing the complete analysis, from data preprocessing to clustering. 🖥️
-- **`Dataset5_Automobile_data.csv`**: The cleaned and preprocessed dataset used for analysis. 📂
-- **`Final_Wan.pdf`**: A detailed report summarizing the project methodology, results, and business insights. 📄
+- **`code.R`**: R script containing the complete analysis, from data preprocessing to clustering. 🖥️
+- **`dataset.csv`**: The cleaned and preprocessed dataset used for analysis. 📂
+- **`report.pdf`**: A detailed report summarizing the project methodology, results, and business insights. 📄
 
 ---
 
