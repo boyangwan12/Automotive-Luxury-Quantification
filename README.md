@@ -1,5 +1,4 @@
 # How to Quantify Automotive Luxury
-A data-driven approach to quantify the perception of luxury in the automotive industry using feature engineering, regression models, and clustering analysis.
 
 ---
 
