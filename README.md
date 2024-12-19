@@ -1,6 +1,5 @@
 # How to Quantify Automotive Luxury
 
----
 
 ## Technologies and Skills
 ### Technologies Used:
